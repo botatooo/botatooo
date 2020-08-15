@@ -6,8 +6,8 @@
 - - -
 <h2> My Github Stats </h2>
 <a href="https://github.com/botatooo">
-  <img src="https://github-readme-stats.vercel.app/api?username=botatooo&show_icons=true&count_private=true&theme=vue" alt="Github Stats">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botatooo&layout=compact&theme=vue" alt="Most Used Langs">-->
+  <img src="https://github-readme-stats.vercel.app/api/?username=botatooo&show_icons=true&count_private=true&include_all_commits=true&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="Github Stats">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botatooo&layout=compact&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="Most Used Langs">-->
 </a>
 <!-- 
 ## Github Badges :
@@ -24,10 +24,10 @@
 
 ## Projects That Intrest Me
 <a href="https://github.com/ShareX/ShareX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&theme=vue" alt="ShareX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="ShareX">
 </a>
 <a href="https://github.com/chromium/chromium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&theme=vue" alt="Chromium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="Chromium">
 </a>
 <a href="https://github.com/author/repository">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&show_owner=true&repo=repository&theme=vue" alt="repository">
