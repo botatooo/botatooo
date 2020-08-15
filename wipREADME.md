@@ -29,12 +29,12 @@
 <a href="https://github.com/chromium/chromium">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="Chromium">
 </a>
-<a href="https://github.com/author/repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&show_owner=true&repo=repository&theme=vue" alt="repository">
+<a href="https://github.com/example/example">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=example&show_owner=true&repo=example&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="repository">
 </a>
-<a href="https://github.com/author/repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&show_owner=true&repo=repository&theme=vue" alt="repository">
+<a href="https://github.com/example/example">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=example&show_owner=true&repo=example&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="repository">
 </a>
-<a href="https://github.com/author/repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&show_owner=true&repo=repository&theme=vue" alt="repository">
+<a href="https://github.com/example/example">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=example&show_owner=true&repo=example&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="repository">
 </a>
