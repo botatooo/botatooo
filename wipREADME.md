@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="ShareX/ShareX">
 </a>
 <a href="https://github.com/chromium/chromium">
-  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="chromium/chromium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="chromium/chromium">
 </a>
 <a href="https://github.com/example/example">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=example&show_owner=true&repo=example&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="repository">
