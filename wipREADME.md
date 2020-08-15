@@ -26,8 +26,8 @@
 <a href="https://github.com/ShareX/ShareX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&repo=ShareX&theme=vue" alt="ShareX">
 </a>
-<a href="https://github.com/author/repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&repo=repository&theme=vue" alt="repository">
+<a href="https://github.com/chromium/chromium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&repo=chromium&theme=vue" alt="Chromium">
 </a>
 <a href="https://github.com/author/repository">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=author&repo=repository&theme=vue" alt="repository">
