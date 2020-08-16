@@ -39,4 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=example&show_owner=true&repo=example&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=000000" alt="repository">
 </a>
 
-<p align="center"><img src="https://gpvc.arturio.dev/botatoo" alt="Profile View Count"></p>
+<p align="center"><img src="https://gpvc.arturio.dev/botatoo" alt="Profile Views Count"></p>
