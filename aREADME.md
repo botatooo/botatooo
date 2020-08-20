@@ -28,7 +28,7 @@
 <a href="https://github.com/chromium/chromium">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="chromium/chromium">
 </a>
-
+---
 <p align="center">
   <img src="https://gpvc.arturio.dev/botatoo" alt="Profile Views Count">
 </p>
