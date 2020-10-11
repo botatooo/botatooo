@@ -1,6 +1,10 @@
+
+<a href="https://canary.discord.com/users/440990343899643943">
+  <img alt="Discord Activity" src="https://gt.bigdumb.gq/api/badge/440990343899643943?color1=202225&textcolor=dcddde&font=Whitney&gradient=false&borderradius=10&bordercolor=ebedef&borderwidth=5" />
+</a>
 <a href="https://github.com/botatooo">
-  <img src="https://github-readme-stats.vercel.app/api/?username=botatooo&show_icons=true&count_private=true&include_all_commits=true&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botatooo&layout=compact&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="Most Used Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=botatooo&show_icons=true&count_private=true&include_all_commits=true&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&title_color=ffffff&text_color=dcddde&bg_color=202225" alt="Most Used Langs" />
 </a>
 <!-- 
 ## button things on my profile :
@@ -17,18 +21,20 @@
 
 ## things that r cool
 <a href="https://github.com/DJSCias/Discord-Datamining">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DJSCias&show_owner=true&repo=Discord-Datamining&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="DJSCias/Discord-Datamining">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DJSCias&show_owner=true&repo=Discord-Datamining&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="DJSCias/Discord-Datamining">
 </a>
 <a href="https://github.com/vDelite/DiscordLists">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vDelite&show_owner=true&repo=DiscordLists&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="vDelite/DiscordLists">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vDelite&show_owner=true&repo=DiscordLists&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="vDelite/DiscordLists">
 </a>
 <a href="https://github.com/ShareX/ShareX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="ShareX/ShareX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="ShareX/ShareX">
 </a>
 <a href="https://github.com/chromium/chromium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&title_color=107c10&icon_color=107c10&text_color=107c10&bg_color=ffffff" alt="chromium/chromium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chromium&show_owner=true&repo=chromium&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="chromium/chromium">
 </a>
 <p></p>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/botatoo" alt="Profile Views Count">
-</p>
+<a href="https://github.com/botatooo">
+  <p align="center">
+    <img src="https://gpvc.arturio.dev/botatoo" alt="Profile Views Count">
+  </p>
+</a>
