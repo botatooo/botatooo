@@ -2,8 +2,10 @@
 <a href="https://canary.discord.com/users/440990343899643943">
   <img alt="Discord Activity" src="https://gt.bigdumb.gq/api/badge/440990343899643943?color1=202225&textcolor=dcddde&font=Whitney&gradient=false&borderradius=10&bordercolor=ebedef&borderwidth=5" />
 </a>
+<p></p>
 <a href="https://github.com/botatooo">
   <img src="https://github-readme-stats.vercel.app/api?username=botatooo&show_icons=true&count_private=true&include_all_commits=true&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="Github Stats" />
+  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&title_color=ffffff&text_color=dcddde&bg_color=202225" alt="Most Used Langs" />
 </a>
 <!-- 
