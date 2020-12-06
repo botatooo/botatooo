@@ -8,33 +8,21 @@
   <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&title_color=ffffff&text_color=dcddde&bg_color=202225" alt="Most Used Langs" />
 </a>
-<!-- 
-## button things on my profile :
-<a href="site" target="_blank">
-  <img src="badge icon" width="40" height="40">
+
+## Badges
+
+<a href="https://developer.github.com/program" target="_blank">
+  <img alt="Developer Program" src="https://raw.githubusercontent.com/primer/octicons/master/icons/cpu-16.svg" width="40" height="40">
 </a>
-<a href="site" target="_blank">
-  <img src="badge icon" width="40" height="40">
+<a href="https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/githubs-products#github-pro" target="_blank">
+  <img alt="Pro" src="https://raw.githubusercontent.com/primer/octicons/master/icons/star-16.svg" width="40" height="40">
 </a>
+<!--
 <a href="site" target="_blank">
   <img src="badge icon" width="40" height="40">
 </a>
 -->
-
-## things that r cool
-<a href="https://github.com/DJSCias/Discord-Datamining">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DJSCias&show_owner=true&repo=Discord-Datamining&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="DJSCias/Discord-Datamining">
-</a>
-<a href="https://github.com/vDelite/DiscordLists">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vDelite&show_owner=true&repo=DiscordLists&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="vDelite/DiscordLists">
-</a>
-<a href="https://github.com/ShareX/ShareX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShareX&show_owner=true&repo=ShareX&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="ShareX/ShareX">
-</a>
-<a href="https://github.com/Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benricheson101&show_owner=true&repo=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&icon_color=677bc4&title_color=7289DA&text_color=dcddde&bg_color=202225" alt="chromium/chromium">
-</a>
-<p></p>
+<br>
 <a href="https://github.com/botatooo">
   <p align="center">
     <img src="https://gpvc.arturio.dev/botatoo" alt="Profile Views Count">
