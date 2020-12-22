@@ -1,0 +1,21 @@
+## Normal Badge
+1. ![1](https://discord.com/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg) [`/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg`](https://discord.com/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg)
+2. ![2](https://discord.com/assets/b4b741bef6c3de9b29e2e0653e294620.svg) [`/assets/b4b741bef6c3de9b29e2e0653e294620.svg`](https://discord.com/assets/b4b741bef6c3de9b29e2e0653e294620.svg)
+3. ![3](https://discord.com/assets/93f5a393e22796a850931483166d7cb9.svg) [`/assets/93f5a393e22796a850931483166d7cb9.svg`](https://discord.com/assets/93f5a393e22796a850931483166d7cb9.svg)
+4. ![4](https://discord.com/assets/4c380650960c2b1e1584115d5e9ad63b.svg) [`/assets/4c380650960c2b1e1584115d5e9ad63b.svg`](https://discord.com/assets/4c380650960c2b1e1584115d5e9ad63b.svg)
+5. ![5](https://discord.com/assets/438dd7ecbffcf21b6cbf2773ade51a04.svg) [`/assets/438dd7ecbffcf21b6cbf2773ade51a04.svg`](https://discord.com/assets/438dd7ecbffcf21b6cbf2773ade51a04.svg)
+6. ![6](https://discord.com/assets/7a5f78de816fcecbbd1d5d6e635cc7dd.svg) [`/assets/7a5f78de816fcecbbd1d5d6e635cc7dd.svg`](https://discord.com/assets/7a5f78de816fcecbbd1d5d6e635cc7dd.svg)
+7. ![7](https://discord.com/assets/5a24b20b84fb3eafc138916729386e76.svg) [`/assets/5a24b20b84fb3eafc138916729386e76.svg`](https://discord.com/assets/5a24b20b84fb3eafc138916729386e76.svg)
+8. ![8](https://discord.com/assets/f31d590e1f3629cd0b614330f4a8ee2a.svg) [`/assets/f31d590e1f3629cd0b614330f4a8ee2a.svg`](https://discord.com/assets/f31d590e1f3629cd0b614330f4a8ee2a.svg)
+9. ![9](https://discord.com/assets/9ba64f1fa91ccde0eba506c1c33f3d1a.svg) [`/assets/9ba64f1fa91ccde0eba506c1c33f3d1a.svg`](https://discord.com/assets/9ba64f1fa91ccde0eba506c1c33f3d1a.svg)
+
+## White Badge
+1. ![1](https://discord.com/assets/a86d7e56b8208da9f8623ac49fe822dc.svg) [`/assets/a86d7e56b8208da9f8623ac49fe822dc.svg`](https://discord.com/assets/a86d7e56b8208da9f8623ac49fe822dc.svg)
+2. ![2](https://discord.com/assets/e85361cd599b6722548c5a5f003b4b78.svg) [`/assets/e85361cd599b6722548c5a5f003b4b78.svg`](https://discord.com/assets/e85361cd599b6722548c5a5f003b4b78.svg)
+3. ![3](https://discord.com/assets/7a0be61e754af3353d0871070f46a9d6.svg) [`/assets/7a0be61e754af3353d0871070f46a9d6.svg`](https://discord.com/assets/7a0be61e754af3353d0871070f46a9d6.svg)
+4. ![4](https://discord.com/assets/88f960f400930f109847d0335685de69.svg) [`/assets/88f960f400930f109847d0335685de69.svg`](https://discord.com/assets/88f960f400930f109847d0335685de69.svg)
+5. ![5](https://discord.com/assets/a99def5f819c077e5e5061cab741b7e6.svg) [`/assets/a99def5f819c077e5e5061cab741b7e6.svg`](https://discord.com/assets/a99def5f819c077e5e5061cab741b7e6.svg)
+6. ![6](https://discord.com/assets/2cfb317f3db3963d8ded9a97ee967bac.svg) [`/assets/2cfb317f3db3963d8ded9a97ee967bac.svg`](https://discord.com/assets/2cfb317f3db3963d8ded9a97ee967bac.svg)
+7. ![7](https://discord.com/assets/278736f579d810b11ddf308cb598b19e.svg) [`/assets/278736f579d810b11ddf308cb598b19e.svg`](https://discord.com/assets/278736f579d810b11ddf308cb598b19e.svg)
+8. ![8](https://discord.com/assets/38e40f25802a0fdf480d9b855a37a2f3.svg) [`/assets/38e40f25802a0fdf480d9b855a37a2f3.svg`](https://discord.com/assets/38e40f25802a0fdf480d9b855a37a2f3.svg)
+9. ![9](https://discord.com/assets/cfbc2d8ceacfacf07850f986c8165195.svg) [`/assets/cfbc2d8ceacfacf07850f986c8165195.svg`](https://discord.com/assets/cfbc2d8ceacfacf07850f986c8165195.svg)
