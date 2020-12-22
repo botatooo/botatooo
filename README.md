@@ -22,7 +22,7 @@
 </a>
 -->
 <br>
-<a href="https://github.com/botato oo">
+<a href="https://github.com/botatooo">
   <p align="center">
     <img alt="Profile Views Count" src="https://gpvc.arturio.dev/botatoo">
   </p>
