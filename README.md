@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm botato</h1>
 <h3 align="center">Just another Python user.</h3>
-<h4 align="center">.. and a <a href="https://nordtheme.com">Nord</a> addict. :)</h6>
+<h4 align="center">.. and a <a href="https://nordtheme.com">Nord theme</a> lover. :)</h6>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
