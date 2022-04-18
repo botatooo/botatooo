@@ -1,44 +1,40 @@
 <h1 align="center">Hi 👋, I'm botato</h1>
-<h3 align="center">Just another Python user.</h3>
-<h4 align="center">.. and a <a href="https://nordtheme.com">Nord theme</a> lover. :)</h6>
+<h3 align="center">Yet another boring hobbyist programmer.</h3>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://html.spec.whatwg.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  </a>
-</p>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=botatooo&show_icons=true&locale=en&bg_color=2e3440&border_color=4c566a&icon_color=a3be8c&text_color=5e81ac&title_color=88c0d0" alt="botatooo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&locale=en&bg_color=2e3440&border_color=4c566a&text_color=5e81ac&title_color=88c0d0" />
-</div>
-
-<hr>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/botatooo">
-    <img src="https://gpvc.arturio.dev/botatoo" alt="Profile views" />
+ <a href="https://skillicons.dev">
+   <img
+      src="https://skillicons.dev/icons?i=discord,twitter,github,stackoverflow,linux,figma,git,vscode,idea,html,md,js,ts,css,sass,py,nodejs,vue&perline=10"
+      alt="Skill Icons"
+   />
   </a>
-</p>
+  <br/>
+  <br/>
+  <img
+    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/440990343899643943"
+    alt="status"
+  />
+  <img
+    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/440990343899643943"
+    alt="playing"
+  />
+  <img
+    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/440990343899643943"
+    alt="vscode"
+  />
+  <a href="https://dev.discordprofiles.me/openspotify/440990343899643943">
+    <img
+      src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/440990343899643943"
+      alt="spotify"
+    />
+  </a>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=botatooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="botatooo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  <br /><br />
+  <a href="https://github.com/botatooo">
+    <img src="https://nocache.advaith.workers.dev?url=https://gpvc.arturio.dev/botatoo" alt="Profile views">
+  </a>
+</a>
