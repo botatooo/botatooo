@@ -12,18 +12,24 @@
   </a>
   <br/>
   <br/>
-  <img
-    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/440990343899643943"
-    alt="status"
-  />
-  <img
-    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/440990343899643943"
-    alt="playing"
-  />
-  <img
-    src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/440990343899643943"
-    alt="vscode"
-  />
+  <a href="#">
+    <img
+      src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/440990343899643943"
+      alt="status"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/440990343899643943"
+      alt="playing"
+    />
+  </a>
+  <a href="https://vscodium.com/">
+    <img
+      src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/440990343899643943"
+      alt="vscode"
+    />
+  </a>
   <a href="https://dev.discordprofiles.me/openspotify/440990343899643943">
     <img
       src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/440990343899643943"
@@ -31,10 +37,12 @@
     />
   </a>
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=botatooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="botatooo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=botatooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="botatooo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  </a>
   <br /><br />
-  <a href="https://github.com/botatooo">
+  <a href="#">
     <img src="https://nocache.advaith.workers.dev?url=https://gpvc.arturio.dev/botatoo" alt="Profile views">
   </a>
 </a>
