@@ -41,12 +41,4 @@
   <a href="https://holopin.io/@botato">
     <img src="https://holopin.io/api/user/board?user=botato" alt="@botato's Holopin board">
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=botatooo&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="botatooo" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botatooo&layout=compact&theme=blueberry&count_private=false&hide_border=true" />
-  </a>
-  <br /><br />
-  <a href="#">
-    <img src="https://nocache.advaith.workers.dev?url=https://gpvc.arturio.dev/botatoo" alt="Profile views">
-  </a>
 </a>
