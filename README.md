@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm botato</h1>
-<h3 align="center">Yet another boring hobbyist programmer.</h3>
+<h1 align="center">Hi 👋, I'm Aidan</h1>
+<h3 align="center">Just another hobbyist software developer.</h3>
 
 <p align="center">
   <a href="#">
@@ -39,6 +39,6 @@
   -->
   <br/>
   <a href="https://holopin.io/@botato">
-    <img src="https://holopin.io/api/user/board?user=botato" alt="@botato's Holopin board">
+    <img src="https://holopin.me/botato" alt="@botato's Holopin board">
   </a>
 </a>
